@@ -1,6 +1,6 @@
 # SaludControl # SaludApp - PWA para Diabetes e Hipertensión
 
-Aplicación Web Progresiva (PWA) diseñada para apoyar a personas con **diabetes** e **hipertensión** en el control de su salud diaria.  
+Aplicación Web Progresiva diseñada para apoyar a personas con **diabetes** e **hipertensión** en el control de su salud diaria.  
 Permite registrar mediciones de glucosa y presión arterial, visualizar gráficas de progreso y generar reportes.
 
 ---
