@@ -16,3 +16,4 @@ Este proyecto está en desarrollo y busca ayudar a registrar y monitorear aspect
 
 ---
 Proyecto creado por Henry Moscoso 🚀
+Prueba de actualización desde mi PC 🚀
